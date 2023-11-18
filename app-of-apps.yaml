@@ -9,7 +9,7 @@ spec:
   source:
     path: apps
     repoURL: 'https://github.com/shubhamgit7/argo-cd-app-of-apps-demo'
-    targetRevision: HEAD
+    targetRevision: main
   project: default
   # syncPolicy:
   #   automated:
